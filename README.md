@@ -1,1 +1,9 @@
-This is a practice repository created for the purpose of terraform study
+# Terraform Practise Code
+
+This is practise repository that shall contain terraform practise tf files
+
+## Technologies used
+* AWS
+* Windows 11
+* Terraform
+* Linux Servers
